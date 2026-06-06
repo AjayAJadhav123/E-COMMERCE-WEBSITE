@@ -112,6 +112,13 @@ shopsphere/
 
 ## 🚀 Getting Started
 
+### 📚 Choose Your Setup Guide
+
+- **⚡ Quick Start (5 min):** See `QUICK_START.md` for copy-paste commands
+- **📖 Complete Guide (30 min):** See `RUN_GUIDE.md` for detailed setup
+- **🖥️ Terminal Reference:** See `TERMINAL_SETUP.md` for exact commands
+- **🎯 First Time Here?** Start with `START_HERE.md`
+
 ### Prerequisites
 - Node.js (v16 or higher)
 - MongoDB Atlas account or local MongoDB
